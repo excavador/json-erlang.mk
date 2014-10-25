@@ -1,0 +1,9 @@
+/.idea
+/.rebar
+/ebin
+/deps
+/log
+/venv
+*.dump
+*.log
+*.pyc
